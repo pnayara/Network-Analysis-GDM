@@ -103,9 +103,9 @@ Three primary modules were identified, each associated with a biological pathway
 
 <p align="center">
   <img src="images\scatter_FC_DG Imune.png"
-   width="30%" alt="Enriched Pathways Community 20">
-   <img src="images\scatter_FC_DG metabolims.png" width="30%" alt="Enriched Pathways Community 20">
-   <img src="images\scatter_FC_DG_vascular.png" width="30%" alt="Enriched Pathways Community 20">
+   width="45%" alt="Enriched Pathways Community 20">
+   <img src="images\scatter_FC_DG metabolims.png" width="45%" alt="Enriched Pathways Community 20">
+   <img src="images\scatter_FC_DG_vascular.png" width="45%" alt="Enriched Pathways Community 20">
 </p>
 
 ---
@@ -114,4 +114,5 @@ Three primary modules were identified, each associated with a biological pathway
 - The GDM placenta exhibits a pathological interplay among metabolic, immune, and vascular pathways, with metabolism acting as the central mediator.
 
 - The results suggest that metabolic stress triggers an inflammatory state, disrupting vascular development and contributing to GDM-associated placental dysfunction. 
+
 
