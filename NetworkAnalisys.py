@@ -20,7 +20,7 @@ import community as community_louvain # communities
 import gseapy as gp # Enrichment
 
 
-#%% Data loading and wrag
+#%% Data loading and data wrangling
 degs = pd.read_csv('DEGs_placenta_limmaVoon.csv')
 degs.head()
 
@@ -714,5 +714,6 @@ plt.legend(
 sns.despine()
 plt.tight_layout()
 plt.show()
+
 
 
